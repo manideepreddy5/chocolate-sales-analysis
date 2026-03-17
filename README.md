@@ -4,6 +4,10 @@
 
 This project presents an interactive Power BI dashboard designed to analyze chocolate sales performance across products, regions, and time. The dashboard enables stakeholders to monitor key business metrics, compare performance trends, and identify high-performing products and sales contributors.
 
+## Project Objective
+
+The objective of this project is to analyze chocolate sales data to identify key revenue drivers, evaluate sales performance across regions and products, and support data-driven business decisions.
+
 ## Dashboard Preview
 
 <img width="1408" height="755" alt="dasboard_preview" src="https://github.com/user-attachments/assets/97e1f847-f295-405b-9c7d-ed261889f9f0" />
