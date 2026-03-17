@@ -18,6 +18,7 @@ The objective of this project is to analyze chocolate sales data to identify key
 
 <img width="1408" height="755" alt="dasboard_preview" src="https://github.com/user-attachments/assets/97e1f847-f295-405b-9c7d-ed261889f9f0" />
 
+This dashboard provides insights into sales performance, product trends, and regional distribution to support business decision-making.
 
 ## Key Performance Indicators (KPIs)
 
