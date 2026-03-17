@@ -111,9 +111,12 @@ These KPIs provide a quick snapshot of overall business performance.
 * Expand operations in high-performing regions.
 * Improve supply chain planning based on shipment distribution patterns.
 
-## Tools Used
+## Tools & Skills Used
 
-* **Power BI** (Dashboard Development & Visualization)
+- Power BI (Dashboard Development & Visualization)
+- Data Modeling
+- DAX (KPI calculations)
+- Data Cleaning & Transformation
 
 ## Conclusion
 
