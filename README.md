@@ -118,7 +118,7 @@ These KPIs provide a quick snapshot of overall business performance.
 - DAX (KPI calculations)
 - Data Cleaning & Transformation
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 
 - Data Analysis  
 - Business Intelligence  
