@@ -20,6 +20,7 @@ The objective of this project is to analyze chocolate sales data to identify key
 
 This dashboard provides insights into sales performance, product trends, and regional distribution to support business decision-making.
 
+
 ## Key Performance Indicators (KPIs)
 
 * **Total Revenue:** $140M
