@@ -118,6 +118,16 @@ These KPIs provide a quick snapshot of overall business performance.
 - DAX (KPI calculations)
 - Data Cleaning & Transformation
 
+  ## Skills Demonstrated
+
+- Data Analysis  
+- Business Intelligence  
+- Data Visualization  
+- KPI Design  
+- Dashboard Development  
+- Trend Analysis  
+- Performance Analysis  
+
 ## Conclusion
 
 This dashboard provides a comprehensive view of sales performance, enabling businesses to make data-driven decisions. It helps in identifying growth opportunities, improving operational efficiency, and enhancing overall business strategy.
